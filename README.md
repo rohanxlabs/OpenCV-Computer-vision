@@ -12,6 +12,7 @@ This project is designed to demonstrate practical understanding + progressive le
 🧠 Project Structure
 
 
+
 OpenCV/
  ├── Phase 1 - Basics
  ├── Phase 2 - Image Resizing & Transformations
@@ -21,6 +22,8 @@ OpenCV/
  ├── Phase 6 - Edge Detection & Thresholding
  ├── Phase 7 - Contours & Shape Detection
  ├── Phase 8 - Face & Object Detection
+
+
 
 
 📚 Phase Details
